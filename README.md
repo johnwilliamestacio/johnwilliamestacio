@@ -4,7 +4,7 @@
 I’m passionate about making security stronger, not just maintaining it.
 
 ## Objective
-I am a result-driven IT professional with 5+ years of experience supporting and securing systems, networks, and hardware. CompTIA Security+ certified and actively training under Security Blue Team Level 1, I am focused on advancing into a Security Operations Center (SOC) role. I bring a proactive mindset, strong technical troubleshooting skills, and a deep commitment to helping organizations stay ahead of cybersecurity threats.
+I am a result-driven IT professional with 5+ years of experience supporting and securing systems, networks, and hardware. CompTIA Security+ and Security Blue Team Level 1 certified, I am actively training under Practical SOC Analyst Associate by the TCM Security, I am focused on advancing into a Security Operations Center (SOC) role. I bring a proactive mindset, strong technical troubleshooting skills, and a deep commitment to helping organizations stay ahead of cybersecurity threats.
 
 ## Skills
 
