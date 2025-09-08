@@ -3,18 +3,14 @@
 <a href="https://blueteamlabs.online/public/user/4b73da1f8230f5e348205b"><img src="https://img.shields.io/badge/-Blue Team Labs-35c2f1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://cyberdefenders.org/p/johnwilliamestacio"><img src="https://img.shields.io/badge/-CyberDefenders-4d77ff?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m passionate about making security stronger, not just maintaining it.
+IT professional transitioning into cybersecurity with a growing interest in threat detection, incident response, and security operations. CompTIA Security+ and Security Blue Team Level 1 certified, currently training with TCM Security's Practical SOC Analyst Associate program. Hard-working, energetic, and technical-minded individual bringing 5+ years of IT experience to cybersecurity. 
 
 ## Certifications
 <div>
-<a href="YOUR_SBT_CERTIFICATE_LINK_HERE"><img src="https://img.shields.io/badge/-Security Blue Team Level 1-1E3A8A?&style=for-the-badge&logo=shield&logoColor=white" />
+<a href="https://elearning.securityblue.team/home/certificate/251049118"><img src="https://img.shields.io/badge/-Security Blue Team Level 1-1E3A8A?&style=for-the-badge&logo=shield&logoColor=white" />
 <a href="https://drive.google.com/file/d/1W_TVvZRIgv_tX4gzbkZrDpC5JMyC9o5c/view?usp=sharing"><img src="https://img.shields.io/badge/-CompTIA Security+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 </a>
 </div>
-
-
-## Objective
-I am a result-driven IT professional with 5+ years of experience supporting and securing systems, networks, and hardware. CompTIA Security+ and Security Blue Team Level 1 certified, I am actively training under Practical SOC Analyst Associate by the TCM Security, I am focused on advancing into a Security Operations Center (SOC) role. I bring a proactive mindset, strong technical troubleshooting skills, and a deep commitment to helping organizations stay ahead of cybersecurity threats.
 
 ## Skills
 
@@ -33,8 +29,7 @@ I am a result-driven IT professional with 5+ years of experience supporting and 
 | **Case Management** | Security incident case management using TheHive platform for investigations, tasks, and IOC tracking | <a href="https://elearning.securityblue.team/public/lab-certificate/4c23ba26-3e88-4eb1-9a87-14be5e68d485">TheHive: Case Management</a> |
 ## Tools
 
-
-### Network
+### Network 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -55,7 +50,7 @@ I am a result-driven IT professional with 5+ years of experience supporting and 
 </div>
 
 ## Talks and Engagements
-
+[![Romance Scams and Social Engineering: Cyber Threats in the Season of Love](https://ytcards.demolab.com/?id=s3uqGfDc8P8&title=Portable+Workstation&lang=en&timestamp=1755897603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 "Romance Scams and Social Engineering: Cyber Threats in the Season of Love")](https://www.youtube.com/shorts/s3uqGfDc8P8)
 
 ## Projects
 - Detection Lab
