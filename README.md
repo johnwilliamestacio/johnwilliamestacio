@@ -7,7 +7,7 @@ IT professional transitioning into cybersecurity with a growing interest in thre
 
 ## Certifications
 <div>
-<a href="https://elearning.securityblue.team/home/certificate/251049118"><img src="https://img.shields.io/badge/-Security Blue Team Level 1-1E3A8A?&style=for-the-badge&logo=shield&logoColor=white" />
+<a href="https://drive.google.com/file/d/1RaZ-mkO4aIbHBOeSkc70aFZKRtDqdpaQ/view?usp=sharing"><img src="https://img.shields.io/badge/-Security Blue Team Level 1-1E3A8A?&style=for-the-badge&logo=shield&logoColor=white" />
 <a href="https://drive.google.com/file/d/1W_TVvZRIgv_tX4gzbkZrDpC5JMyC9o5c/view?usp=sharing"><img src="https://img.shields.io/badge/-CompTIA Security+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 </a>
 </div>
