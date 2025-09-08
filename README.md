@@ -6,9 +6,10 @@
 I’m passionate about making security stronger, not just maintaining it.
 
 ## Certifications
-
 <div>
-<a href"https://drive.google.com/file/d/1W_TVvZRIgv_tX4gzbkZrDpC5JMyC9o5c/view?usp=sharing" ><img src="https://img.shields.io/badge/-CompTIA Security+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="YOUR_SBT_CERTIFICATE_LINK_HERE"><img src="https://img.shields.io/badge/-Security Blue Team Level 1-1E3A8A?&style=for-the-badge&logo=shield&logoColor=white" />
+<a href="https://drive.google.com/file/d/1W_TVvZRIgv_tX4gzbkZrDpC5JMyC9o5c/view?usp=sharing"><img src="https://img.shields.io/badge/-CompTIA Security+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+</a>
 </div>
 
 
