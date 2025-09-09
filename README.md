@@ -7,14 +7,14 @@ IT professional transitioning into cybersecurity with a growing interest in thre
 
 ## Certifications
 <div>
-<a href="https://drive.google.com/file/d/1RaZ-mkO4aIbHBOeSkc70aFZKRtDqdpaQ/view?usp=sharing"><img src="https://img.shields.io/badge/-Security Blue Team Level 1-1E3A8A?&style=for-the-badge&logo=shield&logoColor=white" />
+<a href="https://drive.google.com/file/d/1RaZ-mkO4aIbHBOeSkc70aFZKRtDqdpaQ/view?usp=sharing"><img src="https://img.shields.io/badge/-Security Blue Team Level 1-1E3A8A?&style=for-the-badge&logo=shield&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1W_TVvZRIgv_tX4gzbkZrDpC5JMyC9o5c/view?usp=sharing"><img src="https://img.shields.io/badge/-CompTIA Security+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-</a>
+
 </div>
 
 ## Skills
 
-| Skill | Description | Associated Project |
+| Skill | Description | Associated Lab |
 |-------|-------------|-------------------|
 | **Phishing Analysis** | Email threat analysis, categorization, manual artifact extraction, and credential harvester investigation | <a href="https://elearning.securityblue.team/public/lab-certificate/4479da06-8343-40cf-ac88-7764ccc9a1b4">Categorizing Phishing Emails</a>, <a href="https://elearning.securityblue.team/public/lab-certificate/8294af55-1801-41ba-872b-965254b017ae">Manual Artifact Extraction</a>, <a href="https://elearning.securityblue.team/public/lab-certificate/22b3f332-946a-4403-bfdc-64c255b942fb">Attachment Analysis</a>, <a href="https://elearning.securityblue.team/public/lab-certificate/8be6f5ae-b58d-467a-a960-eb9dff2f760f">Phishing Response Capstone</a> |
 | **Threat Intelligence** | Threat intelligence analysis and research using MISP platform | <a href="https://elearning.securityblue.team/public/lab-certificate/5eba69c0-6f84-45f6-8ef1-5372680e3056">Threat Intel Platform: MISP</a> |
@@ -27,7 +27,11 @@ IT professional transitioning into cybersecurity with a growing interest in thre
 | **Network Analysis** | Network traffic investigation and analysis using Wireshark | <a href="https://elearning.securityblue.team/public/lab-certificate/b88dfd0f-32f0-47ed-ad86-d9394c0016d0">Wireshark Network Investigations</a> |
 | **Incident Response** | Command-line incident response using CMD and PowerShell for analysis and investigation | <a href="https://elearning.securityblue.team/public/lab-certificate/6268dcaa-3582-46e7-bf8f-713d4cd5bc9a">CMD and PowerShell For Response</a> |
 | **Case Management** | Security incident case management using TheHive platform for investigations, tasks, and IOC tracking | <a href="https://elearning.securityblue.team/public/lab-certificate/4c23ba26-3e88-4eb1-9a87-14be5e68d485">TheHive: Case Management</a> |
-## Tools
+
+## Talks and Engagements
+
+### Philippine Institute of Cyber Security Professionals
+[![Romance Scams and Social Engineering: Cyber Threats in the Season of Love](https://ytcards.demolab.com/?id=NuZhsMwC4uU&title=Romance+Scams+and+Social+Engineering:+Cyber+Threats+in+the+Season+of+Love&lang=en&timestamp=1750897603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3791 "Romance Scams and Social Engineering: Cyber Threats in the Season of Love")](https://www.youtube.com/watch?v=NuZhsMwC4uU)
 
 ### Network 
 <div>
@@ -50,6 +54,8 @@ IT professional transitioning into cybersecurity with a growing interest in thre
 </div>
 
 ## Talks and Engagements
+
+
 [![Romance Scams and Social Engineering: Cyber Threats in the Season of Love](https://ytcards.demolab.com/?id=s3uqGfDc8P8&title=Portable+Workstation&lang=en&timestamp=1755897603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 "Romance Scams and Social Engineering: Cyber Threats in the Season of Love")](https://www.youtube.com/shorts/s3uqGfDc8P8)
 
 ## Projects
