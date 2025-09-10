@@ -53,11 +53,6 @@ IT professional transitioning into cybersecurity with a growing interest in thre
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Talks and Engagements
-
-
-[![Romance Scams and Social Engineering: Cyber Threats in the Season of Love](https://ytcards.demolab.com/?id=s3uqGfDc8P8&title=Portable+Workstation&lang=en&timestamp=1755897603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 "Romance Scams and Social Engineering: Cyber Threats in the Season of Love")](https://www.youtube.com/shorts/s3uqGfDc8P8)
-
 ## Projects
 - Detection Lab
 - SOC Automation Project
