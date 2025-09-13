@@ -33,26 +33,6 @@ IT professional transitioning into cybersecurity with a growing interest in thre
 ### Philippine Institute of Cyber Security Professionals
 [![Romance Scams and Social Engineering: Cyber Threats in the Season of Love](https://ytcards.demolab.com/?id=NuZhsMwC4uU&title=Romance+Scams+and+Social+Engineering:+Cyber+Threats+in+the+Season+of+Love&lang=en&timestamp=1750897603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3791 "Romance Scams and Social Engineering: Cyber Threats in the Season of Love")](https://www.youtube.com/watch?v=NuZhsMwC4uU)
 
-### Network 
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM /SOAR
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
 ## Projects
 - Detection Lab
 - SOC Automation Project
