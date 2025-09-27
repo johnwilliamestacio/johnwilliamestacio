@@ -3,7 +3,7 @@
 <a href="https://blueteamlabs.online/public/user/4b73da1f8230f5e348205b"><img src="https://img.shields.io/badge/-Blue Team Labs-35c2f1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://cyberdefenders.org/p/CleverSec"><img src="https://img.shields.io/badge/-CyberDefenders-4d77ff?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-IT professional transitioning into cybersecurity with a growing interest in threat detection, incident response, and security operations. CompTIA Security+ and Security Blue Team Level 1 certified, currently training with TCM Security's Practical SOC Analyst Associate program. Hard-working, energetic, and technical-minded individual bringing 5+ years of IT experience to cybersecurity. 
+IT professional with practical experience in threat detection, incident response, and security operations. CompTIA Security+ and Security Blue Team Level 1 certified, currently training with TCM Security's Practical SOC Analyst Associate program. Hard-working, energetic, and technical-minded individual bringing 5+ years of IT experience to cybersecurity. 
 
 ## Certifications
 <div>
