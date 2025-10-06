@@ -3,7 +3,7 @@
 <a href="https://blueteamlabs.online/public/user/4b73da1f8230f5e348205b"><img src="https://img.shields.io/badge/-Blue Team Labs-35c2f1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://cyberdefenders.org/p/CleverSec"><img src="https://img.shields.io/badge/-CyberDefenders-4d77ff?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-IT professional with practical experience in threat detection, incident response, and security operations. CompTIA Security+ and Security Blue Team Level 1 certified, currently training with TCM Security's Practical SOC Analyst Associate program. Hard-working, energetic, and technical-minded individual bringing 5+ years of IT experience to cybersecurity. 
+IT professional with practical experience in threat detection, incident response, and security operations. CompTIA Security+ and Security Blue Team Level 1 certified, currently training with TCM Security's Practical SOC Analyst Associate program.
 
 ## Certifications
 <div>
@@ -31,9 +31,7 @@ IT professional with practical experience in threat detection, incident response
 ## Talks and Engagements
 
 ### Philippine Institute of Cyber Security Professionals
-[![Cybersecurity Made Simple: How to Be Your Own First Line of Defense](https://ytcards.demolab.com/?id=h9Ra1jdSpcA&title=Cybersecurity+Made+Simple:+How+to+Be+Your+Own+First+Line+of+Defense&lang=en&timestamp=1750897603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2100 "Cybersecurity Made Simple: How to Be Your Own First Line of Defense")](https://www.youtube.com/watch?v=h9Ra1jdSpcA)
-
-[![Romance Scams and Social Engineering: Cyber Threats in the Season of Love](https://ytcards.demolab.com/?id=NuZhsMwC4uU&title=Romance+Scams+and+Social+Engineering:+Cyber+Threats+in+the+Season+of+Love&lang=en&timestamp=1750897603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2791 "Romance Scams and Social Engineering: Cyber Threats in the Season of Love")](https://www.youtube.com/watch?v=NuZhsMwC4uU)
+[![Cybersecurity Made Simple: How to Be Your Own First Line of Defense](https://ytcards.demolab.com/?id=h9Ra1jdSpcA&title=Cybersecurity+Made+Simple:+How+to+Be+Your+Own+First+Line+of+Defense&lang=en&timestamp=1750897603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2100 "Cybersecurity Made Simple: How to Be Your Own First Line of Defense")](https://www.youtube.com/watch?v=h9Ra1jdSpcA) [![Romance Scams and Social Engineering: Cyber Threats in the Season of Love](https://ytcards.demolab.com/?id=NuZhsMwC4uU&title=Romance+Scams+and+Social+Engineering:+Cyber+Threats+in+the+Season+of+Love&lang=en&timestamp=1750897603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2791 "Romance Scams and Social Engineering: Cyber Threats in the Season of Love")](https://www.youtube.com/watch?v=NuZhsMwC4uU)
 
 ## Projects
 - Detection Lab
