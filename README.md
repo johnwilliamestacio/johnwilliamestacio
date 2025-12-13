@@ -2,7 +2,7 @@
 
 **Blue Team Professional | SOC Analyst | Security Advocate**
 
-Defending systems. Empowering people. Trusting in purpose.
+Defending systems. Empowering people. Soli Deo gloria.
 
 <a href="https://www.linkedin.com/in/johnwilliamestacio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://blueteamlabs.online/public/user/4b73da1f8230f5e348205b" target="_blank"><img src="https://img.shields.io/badge/-Blue Team Labs-35c2f1?&style=for-the-badge&logo=shield&logoColor=white" /></a>
@@ -15,7 +15,7 @@ Defending systems. Empowering people. Trusting in purpose.
 
 IT professional with 5+ years of experience, now focused on **threat detection**, **incident response**, and **digital forensics**.
 
-I work best with people—whether it's collaborating with teams under pressure, translating technical findings for non-technical stakeholders, or patiently walking a 70-year-old through sending their first email. Security is technical, but defending organizations is ultimately human.
+I work best with people—whether it's collaborating with teams under pressure, translating technical findings for non-technical stakeholders, or building security awareness from the ground up. Cybersecurity is technical, but defending organizations is ultimately human.
 
 ---
 
