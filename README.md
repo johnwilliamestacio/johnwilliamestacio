@@ -30,8 +30,8 @@ I work best with people—whether it's collaborating with teams under pressure, 
 
 ## What I've Built
 
-### <a href="https://github.com/johnwilliamestacio/SOC-Automation-AI" target="_blank"><strong>SOC Automation Lab</strong></a>
-https://drive.google.com/file/d/1zddMhGzCRMEjbgu2vnluOfBJaVh2oHy2/view?usp=sharing
+### SOC Automation Lab
+https://github.com/johnwilliamestacio/SOC-Automation-AI
 Cloud-based SOC environment on VULTR with Windows Domain Controller, Splunk SIEM, and Shuffle SOAR. Developed automated incident response playbooks: login anomaly detection → Slack alerts → analyst decision → account remediation.
 
 `Splunk` `Shuffle SOAR` `Active Directory` `Windows Server` `VULTR Cloud`
