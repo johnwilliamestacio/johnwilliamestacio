@@ -1,6 +1,6 @@
 # 👋 Hello, I'm John William
 
-**Blue Team Professional | SOC Analyst | Security Advocate**
+**Blue Team Professional | Security Advocate**
 
 Defending systems. Empowering people. Soli Deo gloria.
 
@@ -29,6 +29,7 @@ I work best with people—whether it's collaborating with teams under pressure, 
 ---
 
 ## What I've Built
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3362218" style='border:none;'></iframe>
 
 ### SOC Automation Lab
 <a href="https://github.com/johnwilliamestacio/SOC-Automation-AI" target="_blank"><strong>Github Link</strong></a>  
