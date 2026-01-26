@@ -5,8 +5,8 @@
 Defending systems. Empowering people. Soli Deo gloria.
 
 <a href="https://www.linkedin.com/in/johnwilliamestacio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/CleverSec" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 <a href="https://blueteamlabs.online/public/user/4b73da1f8230f5e348205b" target="_blank"><img src="https://img.shields.io/badge/-Blue Team Labs-35c2f1?&style=for-the-badge&logo=shield&logoColor=white" /></a>
-<a href="https://cyberdefenders.org/p/CleverSec" target="_blank"><img src="https://img.shields.io/badge/-CyberDefenders-4d77ff?&style=for-the-badge&logo=cyberdefenders&logoColor=white" /></a>
 <a href="https://app.letsdefend.io/user/jestacio33862" target="_blank"><img src="https://img.shields.io/badge/-LetsDefend-00D4AA?&style=for-the-badge&logo=shield&logoColor=white" /></a>
 
 ---
@@ -33,13 +33,14 @@ I work best with people—whether it's collaborating with teams under pressure, 
 ### 🏆 TryHackMe Competitive Training
 **Consistently ranked #1** in Bronze and Silver League across recent weeks. Building muscle memory through daily SOC challenges in threat hunting, incident response, and security monitoring.
 
-<div align="center">
-  <a href="https://tryhackme.com/p/johnwilliamestacio" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/johnwilliamestacio.png" alt="TryHackMe Badge">
-  </a>
-</div>
+**Current Stats:**
+- **Username:** CleverSec
+- **Rank:** 0x8 (Omni)
+- **Total Points:** 152,007+
+- **Current Streak:** 13 days
+- **Rooms Completed:** 45+
 
-*Badge not displaying? Visit my [TryHackMe profile](https://tryhackme.com/p/johnwilliamestacio) | [View ranking screenshots →](/achievements)*
+🔗 **[View Full Profile](https://tryhackme.com/p/CleverSec)** | **[View Ranking Screenshots →](/achievements)**
 
 ### SOC Automation Lab
 
@@ -128,8 +129,8 @@ Hands-on computer literacy sessions for local government personnel.
 
 ## Recent Activity & Learning
 
-🔥 **Current Focus:** Daily SOC training on TryHackMe with #1 league rankings  
-📚 **Active Platforms:** Blue Team Labs Online (Top 4%), CyberDefenders, LetsDefend  
+🔥 **Current Focus:** Daily SOC training on TryHackMe (13-day streak, 152K+ points) with #1 league rankings  
+📚 **Active Platforms:** Blue Team Labs Online (Top 4%), LetsDefend  
 🛠️ **Building:** SOC automation workflows and security insights shared with the community
 
 ---
