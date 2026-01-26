@@ -29,29 +29,72 @@ I work best with people—whether it's collaborating with teams under pressure, 
 ---
 
 ## What I've Built
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3362218" style='border:none;'></iframe>
+
+### 🏆 TryHackMe Competitive Training
+**Consistently ranked #1** in Bronze and Silver League across recent weeks. Building muscle memory through daily SOC challenges in threat hunting, incident response, and security monitoring.
+
+<div align="center">
+  <a href="https://tryhackme.com/p/johnwilliamestacio" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/johnwilliamestacio.png" alt="TryHackMe Badge">
+  </a>
+</div>
+
+*Badge not displaying? Visit my [TryHackMe profile](https://tryhackme.com/p/johnwilliamestacio) | [View ranking screenshots →](/achievements)*
 
 ### SOC Automation Lab
-<a href="https://github.com/johnwilliamestacio/SOC-Automation-AI" target="_blank"><strong>Github Link</strong></a>  
-Cloud-based SOC environment on VULTR with Windows Domain Controller, Splunk SIEM, and Shuffle SOAR. Developed automated incident response playbooks: login anomaly detection → Slack alerts → analyst decision → account remediation.
 
-`Splunk` `Shuffle SOAR` `Active Directory` `Windows Server` `VULTR Cloud`
+**🔗 [View Full Project Documentation →](https://github.com/johnwilliamestacio/SOC-Automation-AI)**
 
-### Blue Team Labs Online
-Ranked **#8 out of 810 Philippine defenders** and **Top 4% globally** (#1,082 of 75,619 active participants). Consistent daily practice across incident response, digital forensics, threat hunting, and malware analysis.
+Cloud-based SOC environment deployed on VULTR infrastructure featuring:
 
-### PSAA Certification — Real Investigations
-Passed TCM Security's hands-on SOC analyst exam with 4 comprehensive investigations:
-- **Phishing Analysis** — Email artifact extraction using Thunderbird
-- **Network Traffic Analysis** — Malware investigation and IOC extraction via Wireshark
-- **Windows Endpoint Forensics** — Live IR using Sysmon, Event Logs, DeepBlueCLI
-- **Web Server Compromise** — Attack timeline reconstruction using Splunk SIEM
+**Architecture:**
+- Windows Server 2019 Domain Controller with Active Directory
+- Splunk Enterprise SIEM for centralized logging and detection
+- Shuffle SOAR for automated incident response orchestration
+- Ubuntu Server for SOAR and security tool hosting
+
+**Automated Workflows:**
+- Real-time brute force attack detection via Splunk queries
+- Automated Slack notifications to SOC analysts
+- Interactive decision workflow (allow/deny/manual investigation)
+- Automated Active Directory account remediation (disable/quarantine)
+
+**Key Achievements:**
+- Reduced mean time to respond (MTTR) from manual investigation to automated containment
+- Demonstrated end-to-end SOAR automation from detection → decision → remediation
+- Built practical experience with enterprise SOC technologies
+
+**Tech Stack:** `Splunk Enterprise` `Shuffle SOAR` `Active Directory` `Windows Server 2019` `Sysmon` `PowerShell`
+
+**Related LinkedIn Post:** [SOC Automation Project Showcase](https://www.linkedin.com/feed/update/urn:li:activity:7414527290078011393/)
+
+### Blue Team Labs Online — Top 4% Global Defender
+Ranked **#8 in the Philippines** (810 defenders) and **#1,082 globally** (75,619 participants) through daily practice in incident response, digital forensics, threat hunting, and malware analysis.
+
+### TCM Security PSAA Certification
+Earned the Practical SOC Analyst Associate certification through hands-on investigation scenarios covering phishing analysis, network traffic examination, endpoint forensics, and SIEM-based incident reconstruction. All investigations performed in live lab environments with real-world attack data.
 
 ---
 
 ## Tools & Technologies
 
-`Splunk` `Wireshark` `Autopsy` `Volatility` `DeepBlueCLI` `TheHive` `MISP` `Shuffle SOAR` `Sysmon` `Windows Event Logs` `Active Directory` `Linux`
+### SIEM & Log Analysis
+`Splunk` `Elastic Stack` `Sysmon` `Windows Event Logs` `DeepBlueCLI`
+
+### Network Analysis & Forensics
+`Wireshark` `NetworkMiner` `Zeek` `TCPdump`
+
+### Digital Forensics & Incident Response
+`Autopsy` `Volatility` `FTK Imager` `Redline` `KAPE`
+
+### Threat Intelligence & Case Management
+`TheHive` `MISP` `VirusTotal` `AbuseIPDB`
+
+### Security Orchestration & Automation
+`Shuffle SOAR` `PowerShell` `Python`
+
+### Infrastructure & Platforms
+`Active Directory` `Windows Server` `Linux (Ubuntu/Kali)` `VULTR Cloud` `VMware`
 
 ---
 
@@ -59,35 +102,57 @@ Passed TCM Security's hands-on SOC analyst exam with 4 comprehensive investigati
 
 ### Speaking Engagements
 
-<a href="https://www.facebook.com/share/p/1atJDsvmhB/" target="_blank"><strong>"If I Could Start Again: 5 Things I Wish I Knew on My Cybersecurity Path"</strong></a>  
+**["If I Could Start Again: 5 Things I Wish I Knew on My Cybersecurity Path"](https://www.facebook.com/share/p/1atJDsvmhB/)**  
 *CyberShield Webinar — ASCOT Cybersecurity Alliance & PICSPro Aurora Chapter* | October 2025
 
 **Philippine Institute of Cyber Security Professionals (PICSPro)**
 
-<a href="https://www.youtube.com/watch?v=h9Ra1jdSpcA" target="_blank">
-  <img src="https://ytcards.demolab.com/?id=h9Ra1jdSpcA&title=Cybersecurity+Made+Simple&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5" alt="Cybersecurity Made Simple" />
-</a>
-<a href="https://www.youtube.com/watch?v=NuZhsMwC4uU" target="_blank">
-  <img src="https://ytcards.demolab.com/?id=NuZhsMwC4uU&title=Romance+Scams+and+Social+Engineering&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5" alt="Romance Scams & Social Engineering" />
-</a>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://www.youtube.com/watch?v=h9Ra1jdSpcA" target="_blank">
+    <img src="https://ytcards.demolab.com/?id=h9Ra1jdSpcA&title=Cybersecurity+Made+Simple&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5" alt="Cybersecurity Made Simple" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=NuZhsMwC4uU" target="_blank">
+    <img src="https://ytcards.demolab.com/?id=NuZhsMwC4uU&title=Romance+Scams+and+Social+Engineering&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5" alt="Romance Scams & Social Engineering" />
+  </a>
+</div>
 
-### Community Training
+### Community Training & Advocacy
 
 **Senior Citizens Digital Literacy Program** — City of San Fernando, La Union  
-Guided 70+ year-old participants through their first steps in technology—because cybersecurity awareness starts with the most vulnerable.
+Taught 70+ year-old participants their first steps in technology. Cybersecurity awareness starts with the most vulnerable.
 
 **Barangay Officials & Health Workers Training** — City of San Fernando, La Union  
-Conducted hands-on computer literacy sessions for local government personnel.
+Hands-on computer literacy sessions for local government personnel.
+
+---
+
+## Recent Activity & Learning
+
+🔥 **Current Focus:** Daily SOC training on TryHackMe with #1 league rankings  
+📚 **Active Platforms:** Blue Team Labs Online (Top 4%), CyberDefenders, LetsDefend  
+🛠️ **Building:** SOC automation workflows and security insights shared with the community
 
 ---
 
 ## Why Me?
 
-- **Hands-on proof** — I build SOC workflows, not just collect certifications
-- **Top 4% globally** — Consistent daily practice with validated results
-- **Strong communicator** — Conference speaker, community trainer, and cross-functional collaborator
-- **Battle-tested** — 5+ years supporting 500+ users in government IT infrastructure
+✅ **Hands-on proof** — I build SOC workflows, not just collect certifications  
+✅ **Top 4% globally** — Consistent daily practice with validated results across multiple platforms  
+✅ **Competitive edge** — #1 rankings in TryHackMe leagues demonstrate technical skill under pressure  
+✅ **Strong communicator** — Conference speaker, community trainer, and cross-functional collaborator  
+✅ **Battle-tested** — 5+ years supporting 500+ users in government IT infrastructure  
+✅ **Real-world automation** — Built end-to-end SOAR workflows with production-grade tools
+
+---
+
+## Let's Connect
+
+💼 Open to SOC Analyst, Incident Response, and Security Operations opportunities  
+📧 Reach out via [LinkedIn](https://www.linkedin.com/in/johnwilliamestacio/) for collaboration or discussion  
+🌐 Based in San Fernando, La Union, Philippines | Open to remote work
 
 ---
 
 *Cybersecurity isn't just a career—it's where I found both challenge and purpose.*
+
+**Soli Deo gloria** — To God alone be the glory
