@@ -46,7 +46,7 @@ I work best with people—whether it's collaborating with teams under pressure, 
 
 **🔗 [View Full Project Documentation →](https://github.com/johnwilliamestacio/SOC-Automation-AI)**
 
-Cloud-based SOC environment deployed on VULTR infrastructure featuring:
+On-prem SOC environment deployed on virtual infrastructure featuring:
 
 **Architecture:**
 - Windows Server 2019 Domain Controller with Active Directory
