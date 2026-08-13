@@ -2,7 +2,8 @@
 
 **Security Analyst | MDR • DFIR • SIEM Engineering | A student of life**
 
-I work best with people—whether it's collaborating with teams under pressure, translating technical findings for non-technical stakeholders, or building security awareness from the ground up. Cybersecurity is technical, but defending organizations is ultimately human.
+I work best with people, whether it's collaborating with teams under pressure, translating technical findings for non-technical stakeholders, or building security awareness from the ground up.
+**Cybersecurity is technical, but defending organizations is ultimately human.**
 
 <a href="https://www.linkedin.com/in/johnwilliamestacio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tryhackme.com/p/CleverSec" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
