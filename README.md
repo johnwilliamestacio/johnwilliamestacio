@@ -30,42 +30,6 @@ Excited about advancing technologies and making innovation happen — from autom
 <a href="https://drive.google.com/file/d/1W_TVvZRIgv_tX4gzbkZrDpC5JMyC9o5c/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-CompTIA Security+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-ISC2 CC-00A651?&style=for-the-badge&logo=isc2&logoColor=white" />
 
----
-### SOC Automation Lab
-
-**🔗 [View Full Project Documentation →](https://github.com/johnwilliamestacio/SOC-Automation-AI)**
-
-On-prem SOC environment deployed on virtual infrastructure featuring:
-
-**Architecture:**
-- Windows Server 2019 Domain Controller with Active Directory
-- Splunk Enterprise SIEM for centralized logging and detection
-- Shuffle SOAR for automated incident response orchestration
-- Ubuntu Server for SOAR and security tool hosting
-
-**Automated Workflows:**
-- Real-time brute force attack detection via Splunk queries
-- Automated Slack notifications to SOC analysts
-- Interactive decision workflow (allow/deny/manual investigation)
-- Automated Active Directory account remediation (disable/quarantine)
-
-**Key Achievements:**
-- Reduced mean time to respond (MTTR) from manual investigation to automated containment
-- Demonstrated end-to-end SOAR automation from detection → decision → remediation
-- Built practical experience with enterprise SOC technologies
-
-**Tech Stack:** `Splunk Enterprise` `Shuffle SOAR` `Active Directory` `Windows Server 2019` `Sysmon` `PowerShell`
-
-**Related LinkedIn Post:** [SOC Automation Project Showcase](https://www.linkedin.com/feed/update/urn:li:activity:7414527290078011393/)
-
-### Blue Team Labs Online — Top 4% Global Defender
-Ranked **#8 in the Philippines** (810 defenders) and **#1,082 globally** (75,619 participants) through daily practice in incident response, digital forensics, threat hunting, and malware analysis.
-
-### TCM Security PSAA Certification
-Earned the Practical SOC Analyst Associate certification through hands-on investigation scenarios covering phishing analysis, network traffic examination, endpoint forensics, and SIEM-based incident reconstruction. All investigations performed in live lab environments with real-world attack data.
-
----
-
 ## Talks & Community
 
 ### Speaking Engagements
