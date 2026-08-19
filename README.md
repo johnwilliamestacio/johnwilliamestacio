@@ -24,10 +24,44 @@ Excited about advancing technologies and making innovation happen — from autom
 
 ## Certifications
 
-[![PSAA](https://img.shields.io/badge/Practical_SOC_Analyst_Associate-6C3BAA?style=for-the-badge&logoColor=white)](https://certified.tcm-sec.com/c2d1ef65-e814-40b7-92db-1dc460f90e79)
-[![BTL1](https://img.shields.io/badge/Blue_Team_Level_1-1E3A8A?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1RaZ-mkO4aIbHBOeSkc70aFZKRtDqdpaQ/view?usp=sharing)
-[![Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://drive.google.com/file/d/1W_TVvZRIgv_tX4gzbkZrDpC5JMyC9o5c/view?usp=sharing)
-![ISC2 CC](https://img.shields.io/badge/ISC2_Certified_in_Cybersecurity-00A651?style=for-the-badge&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://certified.tcm-sec.com/c2d1ef65-e814-40b7-92db-1dc460f90e79" target="_blank">
+        <img src="https://certifications.tcm-sec.com/wp-content/uploads/2024/11/PSAA.webp" width="88" alt="PSAA badge"/>
+      </a>
+      <br/>
+      <sub><b>Practical SOC Analyst<br/>Associate</b></sub>
+      <br/>
+      <sub>TCM Security</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://drive.google.com/file/d/1RaZ-mkO4aIbHBOeSkc70aFZKRtDqdpaQ/view?usp=sharing" target="_blank">
+        <img src="https://images.credly.com/images/276d8595-f4e0-457b-adc8-aab85ee221bf/linkedin_thumb_blob" width="88" alt="BTL1 badge"/>
+      </a>
+      <br/>
+      <sub><b>Security Blue Team Level 1</b></sub>
+      <br/>
+      <sub>Centri</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://drive.google.com/file/d/1W_TVvZRIgv_tX4gzbkZrDpC5JMyC9o5c/view?usp=sharing" target="_blank">
+        <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="88" alt="Security+ badge"/>
+      </a>
+      <br/>
+      <sub><b>Security+</b></sub>
+      <br/>
+      <sub>CompTIA</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="88" alt="ISC2 CC badge"/>
+      <br/>
+      <sub><b>Certified in<br/>Cybersecurity</b></sub>
+      <br/>
+      <sub>ISC2</sub>
+    </td>
+  </tr>
+</table>
 
 ## Talks & Community
 
@@ -47,6 +81,3 @@ Excited about advancing technologies and making innovation happen — from autom
   </a>
 </div>
 
----
-
-Soli Deo gloria
