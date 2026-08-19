@@ -1,5 +1,5 @@
-# John William Estacio
-**Security Analyst — MDR · SIEM Engineering · Detection Engineering**
+# 👋 Hello, I'm John William
+**Security Analyst — MDR · SIEM Engineering · Detection Engineering · A student of life**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnwilliamestacio/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/johnwilliamestacio)
@@ -10,11 +10,9 @@
 
 ---
 
-## Currently
+I work best with people, whether it's collaborating with teams under pressure, translating technical findings for non-technical stakeholders, or building security awareness from the ground up. <br>
 
-- Alert triage, incident investigation, and threat validation — Cyber Defense MDR, Accenture
-- CrowdStrike certification track: **CCFA** (Aug/Sep) → **CCSE** → **SC-200** (Oct 4) → **SC-300** (Oct 18) → **CySA+** (Nov)
-- Writing up a 3-scenario detection engineering home lab, MITRE ATT&CK-mapped
+**Cybersecurity is technical, but defending organizations is ultimately human.**
 
 ## Stack
 
