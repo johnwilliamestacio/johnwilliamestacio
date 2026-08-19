@@ -11,7 +11,6 @@
 ---
 
 Excited about advancing technologies and making innovation happen — from automating SOC triage workflows to reconstructing real-world attacks in lab environments. I grow my technical depth through hands-on investigation, research, and continuous certification, with a strong emphasis on mastering the fundamentals before chasing the next tool. <br>
-
 **Cybersecurity is technical, but defending organizations is ultimately human.**
 
 ## Stack
@@ -25,10 +24,10 @@ Excited about advancing technologies and making innovation happen — from autom
 
 ## Certifications
 
-<a href="https://certified.tcm-sec.com/c2d1ef65-e814-40b7-92db-1dc460f90e79" target="_blank"><img src="https://img.shields.io/badge/-Practical SOC Analyst Associate-6C3BAA?&style=for-the-badge&logo=shield&logoColor=white" /></a>
-<a href="https://drive.google.com/file/d/1RaZ-mkO4aIbHBOeSkc70aFZKRtDqdpaQ/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Security Blue Team Level 1-1E3A8A?&style=for-the-badge&logo=shield&logoColor=white" /></a>
-<a href="https://drive.google.com/file/d/1W_TVvZRIgv_tX4gzbkZrDpC5JMyC9o5c/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-CompTIA Security+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-ISC2 CC-00A651?&style=for-the-badge&logo=isc2&logoColor=white" />
+[![PSAA](https://img.shields.io/badge/Practical_SOC_Analyst_Associate-6C3BAA?style=for-the-badge&logoColor=white)](https://certified.tcm-sec.com/c2d1ef65-e814-40b7-92db-1dc460f90e79)
+[![BTL1](https://img.shields.io/badge/Blue_Team_Level_1-1E3A8A?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1RaZ-mkO4aIbHBOeSkc70aFZKRtDqdpaQ/view?usp=sharing)
+[![Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://drive.google.com/file/d/1W_TVvZRIgv_tX4gzbkZrDpC5JMyC9o5c/view?usp=sharing)
+![ISC2 CC](https://img.shields.io/badge/ISC2_Certified_in_Cybersecurity-00A651?style=for-the-badge&logoColor=white)
 
 ## Talks & Community
 
@@ -48,3 +47,6 @@ Excited about advancing technologies and making innovation happen — from autom
   </a>
 </div>
 
+---
+
+Soli Deo gloria
