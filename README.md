@@ -10,7 +10,7 @@
 
 ---
 
-I work best with people, whether it's collaborating with teams under pressure, translating technical findings for non-technical stakeholders, or building security awareness from the ground up. <br>
+Excited about advancing technologies and making innovation happen — from automating SOC triage workflows to reconstructing real-world attacks in lab environments. I grow my technical depth through hands-on investigation, research, and continuous certification, with a strong emphasis on mastering the fundamentals before chasing the next tool. <br>
 
 **Cybersecurity is technical, but defending organizations is ultimately human.**
 
@@ -23,36 +23,64 @@ I work best with people, whether it's collaborating with teams under pressure, t
 | **Detection & Automation** | `MITRE ATT&CK` `Shuffle SOAR` `n8n` `Sysmon` `PowerShell` `Python` |
 | **Threat Intel** | `MISP` `TheHive` `VirusTotal` `AbuseIPDB` |
 
-## Featured Work
-
-**[SOC Automation Pipeline](https://github.com/johnwilliamestacio/SOC-Automation-AI)**
-Splunk + Shuffle SOAR orchestrating detection-to-remediation on an Active Directory environment — brute-force detection, Slack alerting, automated account containment — extended with an n8n + GPT-4.1-mini enrichment layer against AbuseIPDB. Cut alert triage from ~14 minutes to ~5 seconds.
-
-**Detection Engineering Home Lab**
-3-scenario range built in VMware Workstation — Parrot OS attacker, Ubuntu/Zeek sensor, Windows 11 target — instrumented with Elastic Security, Elastic Defend, and Sysmon. Behavior-based KQL detections mapped to MITRE ATT&CK across Discovery, Execution, Persistence, Collection, and Exfiltration.
-
 ## Certifications
 
-| Earned | Issuer | Note |
-|---|---|---|
-| [Practical SOC Analyst Associate](https://certified.tcm-sec.com/c2d1ef65-e814-40b7-92db-1dc460f90e79) | TCM Security | 4-scenario practical exam |
-| [Security Blue Team Level 1](https://drive.google.com/file/d/1RaZ-mkO4aIbHBOeSkc70aFZKRtDqdpaQ/view?usp=sharing) | Security Blue Team | #8 in the Philippines |
-| [CompTIA Security+](https://drive.google.com/file/d/1W_TVvZRIgv_tX4gzbkZrDpC5JMyC9o5c/view?usp=sharing) | CompTIA | |
-| Certified in Cybersecurity | ISC2 | |
+<a href="https://certified.tcm-sec.com/c2d1ef65-e814-40b7-92db-1dc460f90e79" target="_blank"><img src="https://img.shields.io/badge/-Practical SOC Analyst Associate-6C3BAA?&style=for-the-badge&logo=shield&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1RaZ-mkO4aIbHBOeSkc70aFZKRtDqdpaQ/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Security Blue Team Level 1-1E3A8A?&style=for-the-badge&logo=shield&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1W_TVvZRIgv_tX4gzbkZrDpC5JMyC9o5c/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-CompTIA Security+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-ISC2 CC-00A651?&style=for-the-badge&logo=isc2&logoColor=white" />
 
-**In progress** — CCFA → CCSE → SC-200 → SC-300 → CySA+, then four CrowdStrike AI/cloud vouchers.
+---
+### SOC Automation Lab
 
-## Recognition
+**🔗 [View Full Project Documentation →](https://github.com/johnwilliamestacio/SOC-Automation-AI)**
 
-- **Blue Team Labs Online** — Top 4% globally, #8 in the Philippines (810 defenders)
-- **DICT Region 1 Cyber Range Exercise 2025** — 1st place
-- **HackTheBox** — Fellowship of the Exploit, Inner Circle, Academician; competed in Cyber Apocalypse CTF 2026: The Salt Crown
+On-prem SOC environment deployed on virtual infrastructure featuring:
 
-## Talks
+**Architecture:**
+- Windows Server 2019 Domain Controller with Active Directory
+- Splunk Enterprise SIEM for centralized logging and detection
+- Shuffle SOAR for automated incident response orchestration
+- Ubuntu Server for SOAR and security tool hosting
 
-- *If I Could Start Again: 5 Things I Wish I Knew on My Cybersecurity Path* — [CyberShield Webinar](https://www.facebook.com/share/p/1atJDsvmhB/), ASCOT/PICSPro, Oct 2025
-- PICSPro: [Cybersecurity Made Simple](https://www.youtube.com/watch?v=h9Ra1jdSpcA) · [Romance Scams and Social Engineering](https://www.youtube.com/watch?v=NuZhsMwC4uU)
+**Automated Workflows:**
+- Real-time brute force attack detection via Splunk queries
+- Automated Slack notifications to SOC analysts
+- Interactive decision workflow (allow/deny/manual investigation)
+- Automated Active Directory account remediation (disable/quarantine)
+
+**Key Achievements:**
+- Reduced mean time to respond (MTTR) from manual investigation to automated containment
+- Demonstrated end-to-end SOAR automation from detection → decision → remediation
+- Built practical experience with enterprise SOC technologies
+
+**Tech Stack:** `Splunk Enterprise` `Shuffle SOAR` `Active Directory` `Windows Server 2019` `Sysmon` `PowerShell`
+
+**Related LinkedIn Post:** [SOC Automation Project Showcase](https://www.linkedin.com/feed/update/urn:li:activity:7414527290078011393/)
+
+### Blue Team Labs Online — Top 4% Global Defender
+Ranked **#8 in the Philippines** (810 defenders) and **#1,082 globally** (75,619 participants) through daily practice in incident response, digital forensics, threat hunting, and malware analysis.
+
+### TCM Security PSAA Certification
+Earned the Practical SOC Analyst Associate certification through hands-on investigation scenarios covering phishing analysis, network traffic examination, endpoint forensics, and SIEM-based incident reconstruction. All investigations performed in live lab environments with real-world attack data.
 
 ---
 
-Soli Deo gloria
+## Talks & Community
+
+### Speaking Engagements
+
+**["If I Could Start Again: 5 Things I Wish I Knew on My Cybersecurity Path"](https://www.facebook.com/share/p/1atJDsvmhB/)**  
+*CyberShield Webinar — ASCOT Cybersecurity Alliance & PICSPro Aurora Chapter* | October 2025
+
+**Philippine Institute of Cyber Security Professionals (PICSPro)**
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://www.youtube.com/watch?v=h9Ra1jdSpcA" target="_blank">
+    <img src="https://ytcards.demolab.com/?id=h9Ra1jdSpcA&title=Cybersecurity+Made+Simple&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5" alt="Cybersecurity Made Simple" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=NuZhsMwC4uU" target="_blank">
+    <img src="https://ytcards.demolab.com/?id=NuZhsMwC4uU&title=Romance+Scams+and+Social+Engineering&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5" alt="Romance Scams & Social Engineering" />
+  </a>
+</div>
+
